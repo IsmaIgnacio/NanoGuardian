@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\clean\\notificadorloglocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:clean\\notificadorloglocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\clean\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:clean\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\clean\\notificadorpushapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:clean\\notificadorpushapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\clean\\procesadoralertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:clean\\procesadoralertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\clean\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:clean\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|d:\\uacyti\\6to semestre\\taller de ingenieria de software\\nanoguardian\\nanoguardian\\legacy\\alertamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E459D-446F-4818-9B73-A1D51C89777C}|NanoGuardian.csproj|solutionrelative:legacy\\alertamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\INotificador.cs",
+              "RelativeDocumentMoniker": "Clean\\INotificador.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\INotificador.cs",
+              "RelativeToolTip": "Clean\\INotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:09:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificadorPushApp.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\NotificadorPushApp.cs",
+              "RelativeDocumentMoniker": "Clean\\NotificadorPushApp.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\NotificadorPushApp.cs",
+              "RelativeToolTip": "Clean\\NotificadorPushApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:09:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificadorLogLocal.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\NotificadorLogLocal.cs",
+              "RelativeDocumentMoniker": "Clean\\NotificadorLogLocal.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\NotificadorLogLocal.cs",
+              "RelativeToolTip": "Clean\\NotificadorLogLocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:09:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcesadorAlertas.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\ProcesadorAlertas.cs",
+              "RelativeDocumentMoniker": "Clean\\ProcesadorAlertas.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\ProcesadorAlertas.cs",
+              "RelativeToolTip": "Clean\\ProcesadorAlertas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:10:03.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:04:05.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\Alerta.cs",
+              "RelativeDocumentMoniker": "Clean\\Alerta.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Clean\\Alerta.cs",
+              "RelativeToolTip": "Clean\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlertaManager.cs",
+              "DocumentMoniker": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Legacy\\AlertaManager.cs",
+              "RelativeDocumentMoniker": "Legacy\\AlertaManager.cs",
+              "ToolTip": "D:\\Uacyti\\6to Semestre\\Taller de Ingenieria de Software\\NanoGuardian\\NanoGuardian\\Legacy\\AlertaManager.cs",
+              "RelativeToolTip": "Legacy\\AlertaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:04:56.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

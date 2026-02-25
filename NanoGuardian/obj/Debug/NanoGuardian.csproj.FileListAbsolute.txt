@@ -1,0 +1,7 @@
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\bin\Debug\NanoGuardian.exe.config
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\bin\Debug\NanoGuardian.exe
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\bin\Debug\NanoGuardian.pdb
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\obj\Debug\NanoGuardian.csproj.AssemblyReference.cache
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\obj\Debug\NanoGuardian.csproj.CoreCompileInputs.cache
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\obj\Debug\NanoGuardian.exe
+D:\Uacyti\6to Semestre\Taller de Ingenieria de Software\NanoGuardian\NanoGuardian\obj\Debug\NanoGuardian.pdb
